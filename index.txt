@@ -1,0 +1,8 @@
+PROBLEMA:FARE INSERIRE ALL'UTENTE SOTTO FORMA DI RICHIESTA NOME COGNOME COLORE PREFERITO, CONCATENARLO CON IL VALORE 21 E MOSTRARLO SU SCHERMO
+1- Dare la possibilità di inserire il nome
+2- Dare la possibilità di inserire il cognome
+3- Dare la possibilità di inserire il colore preferito
+4- Concatenare i valori delle variabili concatenando il numero 21 a fine stringa
+5- Mostrarlo su schermo 
+    5.1- recupero l'elemento avente specifico ID nel DOM
+     
